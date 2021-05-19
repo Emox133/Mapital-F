@@ -1,0 +1,36 @@
+// FONTS
+// TEXT FONTS
+$font-root: 1rem;
+$font-sm: .5rem;
+$font-md: 1.5rem;
+$font-lg: 2rem;
+
+// HEADING FONTS
+$font-heading-sm: 2.5rem;
+$font-heading-md: 3.5rem;
+$font-heading-lg: 4.5rem;
+
+// SPACING
+.mb-sm {
+    margin-bottom: .5rem;
+}
+
+.mb-md {
+    margin-bottom: 1rem;
+}
+
+.mb-lg {
+    margin-bottom: 2rem;
+}
+
+.p-sm {
+    padding: .5rem;
+}
+
+.p-md {
+    padding: 1rem;
+}
+
+.p-lg {
+    padding: 2rem;
+}

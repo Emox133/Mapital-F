@@ -1,0 +1,17 @@
+{
+  "name": "leaflet_app_v1_parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel serve index.html --open --out-dir ./public",
+    "build": "parcel build index.html --out-dir ./public --public-url ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.32.13"
+  }
+}
